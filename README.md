@@ -22,6 +22,8 @@ This project automates the extraction of company reviews, ratings, and industry 
 
 **Core Concepts:** Handling Pagination, HTML Parsing, Data Imputation, Distribution Analysis, and Correlation Maps.
 
+**Demo:** https://drive.google.com/file/d/1GhKqUwl6-ngK-mEFr6ZcfTv6EIgbCaIF/view
+
 **Future Upgrade**
 1. Sentiment Analysis: I'll try to implement a sentiment analysis for future selection of the company. It give the pros and cons of the orgnanization.
 2. Dashboard Creation: I will create a dashboard based on the data posted by Ambition Box website.
